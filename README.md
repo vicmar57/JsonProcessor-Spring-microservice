@@ -41,7 +41,7 @@ The product-processor makes the following changes to the product input:
 ## Initial state
 We start with the following :
 * Spring-boot application (MAVEN based) with Guava dependency and an embedded MongoDB 
-* Rest controller (src/main/java/com/ebay/candidates/productprocessor/controller/ProductController.java)
+* Rest controller (src/main/java/com/vicmar57/productprocessor/controller/ProductController.java)
 * API definitions (part of the rest controller)
 * Integration-tests that check the service
 
