@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab040207-c61a-4d72-b557-aa14ed1ed8ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1el5flV9FiSCKejmyChUHcYspLD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.ProductProcessingTest">
+    <configuration name="ProductProcessingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductProcessingTest.attributeValuesExclusion2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="METHOD_NAME" value="attributeValuesExclusion2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductProcessingTest.normalization_capitalize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="METHOD_NAME" value="normalization_capitalize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductProcessingTest.normalization_capitalize2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="METHOD_NAME" value="normalization_capitalize2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductProcessingTest.normalization_capitalize3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-processor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="METHOD_NAME" value="normalization_capitalize3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductProcessingTest" />
+        <item itemvalue="JUnit.ProductProcessingTest.attributeValuesExclusion2" />
+        <item itemvalue="JUnit.ProductProcessingTest.normalization_capitalize" />
+        <item itemvalue="JUnit.ProductProcessingTest.normalization_capitalize3" />
+        <item itemvalue="JUnit.ProductProcessingTest.normalization_capitalize2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/eclipse-workspace/Assignments - Functional Programming Principles in Scala - Coursera/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/Assignments - Functional Programming Principles in Scala - Coursera/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/funsets" value="PREVIEW" />
+        <entry key="D:/Home school/dev/Big Data/Projects/SparkStreamTwitt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab040207-c61a-4d72-b557-aa14ed1ed8ca" name="Default Changelist" comment="" />
+      <created>1594883444648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594883444648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-735" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1594910227170">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-735" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1594910227170" />
+    <state x="-860" y="231" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595188567077">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-860" y="231" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595188567077" />
+    <state x="-879" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595253205444">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-879" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253205444" />
+    <state x="282" y="271" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594884103290" />
+    <state x="-1080" y="488" width="1080" height="952" key="#xdebugger.evaluate" timestamp="1595252741400">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-1080" y="488" width="1080" height="952" key="#xdebugger.evaluate/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595252741400" />
+    <state width="1037" height="789" key="GridCell.Tab.0.bottom" timestamp="1595253511463">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="789" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512685" />
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
+    <state width="1037" height="789" key="GridCell.Tab.0.center" timestamp="1595253511463">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="789" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
+    <state width="1037" height="789" key="GridCell.Tab.0.left" timestamp="1595253511463">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="789" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
+    <state width="1037" height="789" key="GridCell.Tab.0.right" timestamp="1595253511463">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="789" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
+    <state width="1037" height="807" key="GridCell.Tab.1.bottom" timestamp="1595253511457">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="807" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511457" />
+    <state width="1237" height="252" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886543902" />
+    <state width="1037" height="807" key="GridCell.Tab.1.center" timestamp="1595253511457">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="807" key="GridCell.Tab.1.center/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511457" />
+    <state width="1237" height="252" key="GridCell.Tab.1.center/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886543901" />
+    <state width="1037" height="807" key="GridCell.Tab.1.left" timestamp="1595253511457">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="807" key="GridCell.Tab.1.left/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511457" />
+    <state width="1237" height="252" key="GridCell.Tab.1.left/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886543900" />
+    <state width="1037" height="807" key="GridCell.Tab.1.right" timestamp="1595253511457">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state width="1037" height="807" key="GridCell.Tab.1.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511457" />
+    <state width="1237" height="252" key="GridCell.Tab.1.right/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886543901" />
+    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1595253690678">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253690678" />
+    <state x="280" y="280" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1595188454682" />
+    <state x="-798" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1594909628893">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-798" y="124" key="refactoring.ChangeSignatureDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1594909628893" />
+    <state x="-877" y="-13" width="672" height="678" key="search.everywhere.popup" timestamp="1595239050379">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-877" y="-13" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595239050379" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vicmar57/productProcessor/model/SimpleInvalidFilter.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vicmar57/productProcessor/controller/ProductController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
