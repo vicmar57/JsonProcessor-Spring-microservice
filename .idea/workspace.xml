@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab040207-c61a-4d72-b557-aa14ed1ed8ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/GetProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/GetProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/ProductProcessingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/product-processor.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/candidates/productprocessor/integration/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/candidates/productprocessor/integration/GetProductTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-processor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/product-processor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vicmar57/productProcessor/model/SimpleInvalidFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vicmar57/productProcessor/model/SimpleInvalidFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -191,28 +193,28 @@
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
     <state x="-1080" y="488" width="1080" height="952" key="#xdebugger.evaluate/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595252741400" />
-    <state width="1037" height="789" key="GridCell.Tab.0.bottom" timestamp="1595254426066">
+    <state width="1037" height="789" key="GridCell.Tab.0.bottom" timestamp="1595254909749">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
+    <state width="1037" height="789" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254909749" />
     <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512685" />
     <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
-    <state width="1037" height="789" key="GridCell.Tab.0.center" timestamp="1595254426066">
+    <state width="1037" height="789" key="GridCell.Tab.0.center" timestamp="1595254909748">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
+    <state width="1037" height="789" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254909748" />
     <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
     <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
-    <state width="1037" height="789" key="GridCell.Tab.0.left" timestamp="1595254426066">
+    <state width="1037" height="789" key="GridCell.Tab.0.left" timestamp="1595254909748">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
+    <state width="1037" height="789" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254909748" />
     <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
     <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
-    <state width="1037" height="789" key="GridCell.Tab.0.right" timestamp="1595254426066">
+    <state width="1037" height="789" key="GridCell.Tab.0.right" timestamp="1595254909749">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
+    <state width="1037" height="789" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254909749" />
     <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
     <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
     <state width="1037" height="807" key="GridCell.Tab.1.bottom" timestamp="1595253511457">
@@ -235,10 +237,10 @@
     </state>
     <state width="1037" height="807" key="GridCell.Tab.1.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511457" />
     <state width="1237" height="252" key="GridCell.Tab.1.right/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886543901" />
-    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1595254264404">
+    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1595254585363">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254264403" />
+    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254585363" />
     <state x="280" y="280" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1595188454682" />
     <state x="-798" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1594909628893">
       <screen x="-1080" y="-450" width="1080" height="1890" />

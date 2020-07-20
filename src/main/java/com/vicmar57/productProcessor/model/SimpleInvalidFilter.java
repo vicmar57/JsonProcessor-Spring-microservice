@@ -24,10 +24,9 @@ public class SimpleInvalidFilter implements IFilterBehaviour {
 
 
 
-
+//    The Java 7 way
 //    @Override
 //    public void filterInvalids(List<Attribute> attributes) {
-//        the Java 7 way
 //            //iterate over all attributes
 //            Iterator<Attribute> attrIt = attributes.iterator();
 //            while (attrIt.hasNext()) {
@@ -43,8 +42,6 @@ public class SimpleInvalidFilter implements IFilterBehaviour {
 //                    attrIt.remove();
 //            }
 //    }
-
-
 
 
 //    public void cleanAttributes(List<Attribute> attributes) {
