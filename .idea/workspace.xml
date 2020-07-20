@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab040207-c61a-4d72-b557-aa14ed1ed8ca" name="Default Changelist" comment="" />
+    <list default="true" id="ab040207-c61a-4d72-b557-aa14ed1ed8ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/GetProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/GetProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/ProductProcessingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/product-processor.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/candidates/productprocessor/integration/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/candidates/productprocessor/integration/GetProductTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -39,17 +51,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.vicmar57" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.ProductProcessingTest">
     <configuration name="ProductProcessingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="product-processor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="PATTERN" value="com.vicmar57.productprocessor.integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="PACKAGE_NAME" value="com.vicmar57.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.vicmar57.productprocessor.integration.ProductProcessingTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,12 +76,12 @@
       <module name="product-processor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="PATTERN" value="com.vicmar57.productprocessor.integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="PACKAGE_NAME" value="com.vicmar57.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.vicmar57.productprocessor.integration.ProductProcessingTest" />
       <option name="METHOD_NAME" value="attributeValuesExclusion2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -75,12 +92,12 @@
       <module name="product-processor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="PATTERN" value="com.vicmar57.productprocessor.integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="PACKAGE_NAME" value="com.vicmar57.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.vicmar57.productprocessor.integration.ProductProcessingTest" />
       <option name="METHOD_NAME" value="normalization_capitalize" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -91,12 +108,12 @@
       <module name="product-processor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="PATTERN" value="com.vicmar57.productprocessor.integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="PACKAGE_NAME" value="com.vicmar57.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.vicmar57.productprocessor.integration.ProductProcessingTest" />
       <option name="METHOD_NAME" value="normalization_capitalize2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -107,12 +124,12 @@
       <module name="product-processor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ebay.candidates.productprocessor.integration.*" />
+          <option name="PATTERN" value="com.vicmar57.productprocessor.integration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.candidates.productprocessor.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.candidates.productprocessor.integration.ProductProcessingTest" />
+      <option name="PACKAGE_NAME" value="com.vicmar57.productprocessor.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.vicmar57.productprocessor.integration.ProductProcessingTest" />
       <option name="METHOD_NAME" value="normalization_capitalize3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -135,7 +152,7 @@
         <entry key="$USER_HOME$/eclipse-workspace/Assignments - Functional Programming Principles in Scala - Coursera/forcomp" value="PREVIEW" />
         <entry key="$USER_HOME$/eclipse-workspace/Assignments - Functional Programming Principles in Scala - Coursera/patmat" value="PREVIEW" />
         <entry key="$USER_HOME$/eclipse-workspace/funsets" value="PREVIEW" />
-        <entry key="D:/Home school/dev/Big Data/Projects/SparkStreamTwitt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Big Data/Projects/SparkStreamTwitt" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -161,37 +178,41 @@
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
     <state x="-860" y="231" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595188567077" />
-    <state x="-879" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595253205444">
+    <state x="-879" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595254360980">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state x="-879" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253205444" />
+    <state x="-879" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254360980" />
     <state x="282" y="271" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594884103290" />
+    <state x="-744" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1595254362621">
+      <screen x="-1080" y="-450" width="1080" height="1890" />
+    </state>
+    <state x="-744" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254362621" />
     <state x="-1080" y="488" width="1080" height="952" key="#xdebugger.evaluate" timestamp="1595252741400">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
     <state x="-1080" y="488" width="1080" height="952" key="#xdebugger.evaluate/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595252741400" />
-    <state width="1037" height="789" key="GridCell.Tab.0.bottom" timestamp="1595253511463">
+    <state width="1037" height="789" key="GridCell.Tab.0.bottom" timestamp="1595254426066">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1037" height="789" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
     <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512685" />
     <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
-    <state width="1037" height="789" key="GridCell.Tab.0.center" timestamp="1595253511463">
+    <state width="1037" height="789" key="GridCell.Tab.0.center" timestamp="1595254426066">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1037" height="789" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
     <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
     <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
-    <state width="1037" height="789" key="GridCell.Tab.0.left" timestamp="1595253511463">
+    <state width="1037" height="789" key="GridCell.Tab.0.left" timestamp="1595254426066">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1037" height="789" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
     <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
     <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
-    <state width="1037" height="789" key="GridCell.Tab.0.right" timestamp="1595253511463">
+    <state width="1037" height="789" key="GridCell.Tab.0.right" timestamp="1595254426066">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state width="1037" height="789" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511463" />
+    <state width="1037" height="789" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254426066" />
     <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886512684" />
     <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1594978653903" />
     <state width="1037" height="807" key="GridCell.Tab.1.bottom" timestamp="1595253511457">
@@ -214,10 +235,10 @@
     </state>
     <state width="1037" height="807" key="GridCell.Tab.1.right/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253511457" />
     <state width="1237" height="252" key="GridCell.Tab.1.right/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1594886543901" />
-    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1595253690678">
+    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1595254264404">
       <screen x="-1080" y="-450" width="1080" height="1890" />
     </state>
-    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595253690678" />
+    <state x="-844" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@-1080.-450.1080.1890" timestamp="1595254264403" />
     <state x="280" y="280" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1080.-450.1080.1890@0.0.1280.689" timestamp="1595188454682" />
     <state x="-798" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1594909628893">
       <screen x="-1080" y="-450" width="1080" height="1890" />
@@ -232,12 +253,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/ProductProcessingTest.java</url>
           <line>61</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/ebay/candidates/productprocessor/integration/ProductProcessingTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/vicmar57/productprocessor/integration/ProductProcessingTest.java</url>
           <line>77</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>

@@ -1,4 +1,4 @@
-package com.ebay.candidates.productprocessor.integration;
+package com.vicmar57.productprocessor.integration;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

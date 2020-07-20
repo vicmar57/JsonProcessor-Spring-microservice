@@ -1,4 +1,4 @@
-package com.ebay.candidates.productprocessor.integration;
+package com.vicmar57.productprocessor.integration;
 
 import com.vicmar57.productProcessor.ProductProcessorApplication;
 import org.junit.runner.RunWith;
