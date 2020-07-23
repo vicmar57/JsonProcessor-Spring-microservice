@@ -9,7 +9,6 @@ public class SimpleNormalizeCaps implements INormalizeCapsBehaviour {
     @Override
     public void normalize_caps(List<Attribute> attributes) {
         attributes.stream()
-                //.skip(1) //assuming the "title" attribute is always first, skip it
                 .forEach(at -> {
                     if(!at.getName().equals("title")) {
                         at.getValues()

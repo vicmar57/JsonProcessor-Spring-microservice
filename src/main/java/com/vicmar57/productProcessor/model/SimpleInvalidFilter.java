@@ -42,22 +42,3 @@ public class SimpleInvalidFilter implements IFilterBehaviour {
 //                    attrIt.remove();
 //            }
 //    }
-
-
-//    public void cleanAttributes(List<Attribute> attributes) {
-//        the java 7 way
-//        //iterate over all attributes
-//        Iterator<Attribute> attrIt = attributes.iterator();
-//        while (attrIt.hasNext()) {
-//            Attribute attr = attrIt.next();
-//            Iterator<String> it = attr.getValues().iterator();
-//            //iterate over all attribute values
-//            while (it.hasNext()) {
-//                String curr = it.next();
-//                if (curr == null || curr.equals(""))
-//                    it.remove(); // NOTE: Iterator's remove method, not ArrayList's, is used.
-//            }
-//            if (attr.getValues().size() == 0)
-//                attrIt.remove();
-//        }
-//    }
