@@ -41,7 +41,7 @@ public class ProductProcessingTest extends BaseTest {
   }
 
   @Test
-  public void normalization_capitalize2() {
+  public void nullProductTest_noAction() {
     Product product = null;
     ResponseEntity<Product> productResponseEntity = restTemplate.postForEntity(UPSERT_PRODUCT_URL, product, Product.class);
     assertThat(productResponseEntity.getStatusCode()).isEqualTo(HttpStatus.UNSUPPORTED_MEDIA_TYPE);

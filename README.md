@@ -75,7 +75,7 @@ We want to sort the attributes by their names (alphabetical - case sensitive).
 #### Example
 * { "attachment":"wings" , "size": ["8"] , "Color": ["Blue"] } -> { "Color": ["Blue"]  , "attachment":"wings" , "size": ["8"] }
 
-### Bonus: ask 4 - Persist the processed products and fetch processed products
+### Task 4 - Persist the processed products and fetch processed products
 Provided is a product repository at src/main/java/com/vicmar57/productprocessor/repository/ProductRepository.java
 
 You can autowire that interface and use it to persist and retrieve products.
